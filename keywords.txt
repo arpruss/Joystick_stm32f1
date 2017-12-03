@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map Joystick
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Joystick	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Yrotate			KEYWORD2
+Y				KEYWORD2
+Xrotate			KEYWORD2
+X				KEYWORD2
+sliderLeft		KEYWORD2
+sliderRight	KEYWORD2
+button		KEYWORD2
+hat	KEYWORD2
+setManualReportMode	KEYWORD2
+sendManualReport	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+KEY_RETURN		LITERAL1
