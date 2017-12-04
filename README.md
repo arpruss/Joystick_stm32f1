@@ -1,1 +1,1 @@
-USB JoystickJoystick for STM32F1.
+USB Joystick for STM32F1.
